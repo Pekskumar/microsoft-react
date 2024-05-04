@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/microsoft-react/static/css/main.f5f83dc3.css",
+    "main.js": "/microsoft-react/static/js/main.3edb7afc.js",
+    "static/js/371.fff4d472.chunk.js": "/microsoft-react/static/js/371.fff4d472.chunk.js",
+    "static/media/bgImg1.png": "/microsoft-react/static/media/bgImg1.09c36645c075f67bd2a7.png",
+    "static/media/Prakash_DPPNG.png": "/microsoft-react/static/media/Prakash_DPPNG.d6b1644b5439255b82da.png",
+    "static/media/white-logo.png": "/microsoft-react/static/media/white-logo.6913667979f4a05f9aa8.png",
+    "index.html": "/microsoft-react/index.html",
+    "main.f5f83dc3.css.map": "/microsoft-react/static/css/main.f5f83dc3.css.map",
+    "main.3edb7afc.js.map": "/microsoft-react/static/js/main.3edb7afc.js.map",
+    "371.fff4d472.chunk.js.map": "/microsoft-react/static/js/371.fff4d472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5f83dc3.css",
+    "static/js/main.3edb7afc.js"
+  ]
+}
